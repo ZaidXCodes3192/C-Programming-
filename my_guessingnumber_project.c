@@ -3,7 +3,7 @@
 #include <time.h>
 int main() {
 
-  int sec,gn,attempts=0;
+  int sec,gn=0,attempts=0;
     srand(time(0));
     sec = (rand() % 100) + 1;
 
