@@ -1,7 +1,7 @@
-<img width="1361" height="531" alt="Screenshot 2026-10-11 143029" src="https://github.com/user-attachments/assets/618cd27d-5a46-457e-a4b8-be49f2b2c1d7" />
+
 <img width="1358" height="532" alt="Screenshot 2026-10-11 143008" src="https://github.com/user-attachments/assets/766db2a9-3f03-4bda-bd9e-7225e75544b9" />
 <img width="1361" height="531" alt="Screenshot 2026-10-11 143029" src="https://github.com/user-attachments/assets/935fa2e7-4cf6-4eff-adea-4278d60a643d" />
-<img width="1358" height="532" alt="Screenshot 2026-10-11 143008" src="https://github.com/user-attachments/assets/ba68276f-7d30-4011-b98b-e8291c0568b8" />
+
 # Number Guessing Game in C
 
 ## About the Project
